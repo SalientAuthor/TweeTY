@@ -1,2 +1,4 @@
-# tsa
+# TweeTY
+
+"TweeTY" is web based application which uses angular framework with django & ExpressJS Integrations, specialized for analyzing tweets and providing amazing user interface. Twitter API provides tweets related data with the help of Tweepy library by using authentication tokens and secret keys provided by twitter developer account. Then we perform operations essential for cleansing and structuring the raw data and extracting the advance level of sentimental data from the tweets this important work fully implemented through Django API. We used Angular API one of the best suite for front-end part which sends requests and fetch responses of users to the django (through http service) and mongodb (through expressJS authentication  service). We store users credentials and searched tweets history data in database system mongodb.
  
