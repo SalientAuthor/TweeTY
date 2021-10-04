@@ -1,0 +1,9 @@
+Complete Packaged Twitter Sentiment Analysis Project!
+
+Content:
+
+
+    1. Production Build of Tweety Angular Front-End App including index.html.
+    
+    2. Node Backend Server for User Authentication/ Deployment of frontend-application.
+   
